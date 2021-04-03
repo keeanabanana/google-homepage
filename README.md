@@ -1,0 +1,1 @@
+Hello! This is my Google Homepage project for The Odin Project! Wish me luck.
